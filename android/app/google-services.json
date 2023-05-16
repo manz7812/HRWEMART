@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191887656961",
+    "project_id": "hrsystem-42c24",
+    "storage_bucket": "hrsystem-42c24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191887656961:android:e44393b6fe7a2923a69800",
+        "android_client_info": {
+          "package_name": "com.example.index"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191887656961-omesu7nmlh8rp6m37mhvv0vg93tvm6k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYqNiXpRMbTD4BNEJzjd6gO4EofOOtys4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191887656961-omesu7nmlh8rp6m37mhvv0vg93tvm6k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
